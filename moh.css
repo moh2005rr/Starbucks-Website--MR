@@ -1,0 +1,23 @@
+body{
+    background: rgb(206, 202, 202);
+}
+.circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #e66c8e;
+    clip-path: circle(600px at right 750px);
+
+}
+.m{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #e66c8e;
+    clip-path: circle(350px at left -100px);
+
+}
